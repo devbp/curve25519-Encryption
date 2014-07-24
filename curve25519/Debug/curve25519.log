@@ -1,0 +1,5 @@
+﻿  curve25519.cpp
+c:\users\pouddev\source\curve25519\curve25519\curve25519.cpp(25): warning C4101: 'i' : unreferenced local variable
+c:\users\pouddev\source\curve25519\curve25519\curve25519.cpp(26): warning C4101: 'end' : unreferenced local variable
+c:\users\pouddev\source\curve25519\curve25519\curve25519.cpp(26): warning C4101: 'start' : unreferenced local variable
+  curve25519.vcxproj -> C:\Users\pouddev\Source\curve25519\Debug\curve25519.exe
